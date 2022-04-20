@@ -1,6 +1,7 @@
-# Naghmaty App
+# Login Page App
 
-Naghmaty App is a Flutter Application of Sounds Mobile
+simple login page by flutter framework
+
 ![](https://img.shields.io/badge/APP-%20-red)
 ![](https://img.shields.io/badge/APP-Flutter%20%2B1-brightgreen)
 ![](https://img.shields.io/badge/Login-APP%20-blue)
